@@ -10,6 +10,13 @@ This is an in-browser PWA that serves as a single-page Text Editor. It utilizes 
 
 ## Usage
 
+## Screenshots
+
+manifest.JSON ↓ 
+
+
+![](./readme_assets/manifestJSON.PNG)
+
 ## Credits
 
 Developed By: github.com/jaqsentanner
