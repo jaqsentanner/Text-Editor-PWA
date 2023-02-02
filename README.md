@@ -8,7 +8,13 @@ This is an in-browser PWA that serves as a single-page Text Editor. It utilizes 
 
 ## Installation
 
+    npm start:dev 
+
+Once deployed, the application can be utilized in offline mode by pressing "Install"
+
 ## Usage
+
+This application is intended to serve as an in-browser text editor for coding purposes. 
 
 ## Screenshots
 
